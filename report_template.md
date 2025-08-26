@@ -16,6 +16,8 @@ The question below refers to the 4 examples in Part 1 of the notebook.
 
 **1.2 Place each model on the tradeoff triangle (shown below) and provide an explanation of your choice.**
 
+**1.3 How do the different types of uncertainty appear in these models?**
+
 ![triangle](images/triangle.jpg)
 
 % solution_start
@@ -61,7 +63,7 @@ According to the accuracy-complexity-cost triangle, this approach sacrifices som
 
 % solution_end
 
-**1.3 Which model of the examples do you think would be the most useful for winning the Ice Classic? Provide an explanation of your choice. Is the complexity of the model worth it?**
+**1.4 Which model of the examples do you think would be the most useful for winning the Ice Classic? Provide an explanation of your choice. Is the complexity of the model worth it?**
 
 % solution_start
 
