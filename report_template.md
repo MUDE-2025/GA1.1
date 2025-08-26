@@ -12,7 +12,7 @@ For part 1, Try splitting into pairs within your group and each choose a model t
 
 The question below refers to the 4 examples in Part 1 of the notebook.
 
-**1.1 Classify the models in the slide using the categories in the textbook. Please provide an explanation of your choice.**
+**1.1 Classify the models in the examples using the categories in the textbook. Please provide an explanation of your choice.**
 
 **1.2 Place each model on the tradeoff triangle (shown below) and provide an explanation of your choice.**
 
@@ -61,7 +61,7 @@ According to the accuracy-complexity-cost triangle, this approach sacrifices som
 
 % solution_end
 
-**1.3 Which model of the examples do you think would be the most useful for winning the Ice Classic? Provide an explanation of your choice. Is the complexity of the model worth it?**
+**1.3 Which model of the examples do you think would be the most useful for winning the Ice Classic? Provide an explanation of your choice.**
 
 % solution_start
 
@@ -76,7 +76,7 @@ The answer is often subjective and depends on your assumptions and perspective.
 
 Before answering these questions, please work through Part 2 of the notebook.
 
-**2.1 Provide a description of the resulting models for model 1 and model 2. What do you observe? Do the models make sense? Are they accurate?**
+**2.1 Provide a description of the resulting models for model 1 and model 2. What do you observe?e? Are they accurate?**
 
 % solution_start
 `<solution>`
