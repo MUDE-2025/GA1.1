@@ -12,7 +12,7 @@ This assignment is split into three main parts:
 
 1. The first half presents you with some information about modelling ice and asks you to evaluate some hypothetical models.
 2. The second part asks you to run two simple models to predict the ice breakage day and discuss them.
-3. If you have time, you can do the third part. Here, some more complex ice models are presented and you can use these as inspiration to draft a conceptual model for modelling ice breakage (no coding required).
+3.  Here, some more ice models are presented and you are asked to assess them (no coding required).
    
 You will need to answer the questions in the report together as a group.
 

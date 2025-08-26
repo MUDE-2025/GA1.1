@@ -16,8 +16,6 @@ The question below refers to the 4 examples in Part 1 of the notebook.
 
 **1.2 Place each model on the tradeoff triangle (shown below) and provide an explanation of your choice.**
 
-**1.3 How do the different types of uncertainty appear in these models?**
-
 ![triangle](images/triangle.jpg)
 
 % solution_start
@@ -63,7 +61,7 @@ According to the accuracy-complexity-cost triangle, this approach sacrifices som
 
 % solution_end
 
-**1.4 Which model of the examples do you think would be the most useful for winning the Ice Classic? Provide an explanation of your choice. Is the complexity of the model worth it?**
+**1.3 Which model of the examples do you think would be the most useful for winning the Ice Classic? Provide an explanation of your choice. Is the complexity of the model worth it?**
 
 % solution_start
 
@@ -84,18 +82,32 @@ Before answering these questions, please work through Part 2 of the notebook.
 `<solution>`
 % solution_end
 
-**2.2 Which model, if any, do you think is better? Why?**
+**2.2 Which model, if any, do you think is better according to Goodness of Fit metrics? Why?**
 
-**2.3 Consider that you are using one of these models to place your bet, how much would you bet?**
+## Part 3
 
-## Part 3 (Optional but recommended)
+**3.1 Have a look at the given examples and papers in part 3. What assumption and simplifications do you make? What do you think the tradeoffs are?**
 
-**3.1 Have a look at the given examples and papers in part 3. Use these and what you have learned in this notebook to suggest another conceptual model.**
+**3.2 How do the different types of uncertainty appear in these models?**
 
-**3.2 What assumption and simplifications do you make? What do you think the tradeoffs are?**
+**3.3 (Optional but recommended) Based on these models and the data you have available, make a prediction for the ice breakup for next year!**
 
-**3.2Is this model realistic to build? Is it worth the cost?** 
+% solution_start
+There is a huge variety of answers, so only a brief outline will be illustrated here.
+Most groups recognized the importance of discharge and ice thickness and found really interesting ways to connect observable variables to these, which are at the core of the prediction model. Some were more complex than others, and ranged in scale from global to regional, but all incorporated interesting aspects of hydrology, climate, weather, etc (solar radiation, for example, was a nice one, as it has complex relationship with snow/ice melting, both on the river and upstream in the watershed).
+Some key points to keep in mind/recognize:
+Ideally one would “observe” the discharge and ice thickness at breakup to identify a critical threshold of discharge that may cause the ice to break, given the current ice thickness (i.e., critical discharge increases with increasing ice thickness). This is a great idea; however, it is much more difficult to do in practice:
+It is impossible to measure ice thickness during breakup: check out this video to understand why. Also, at some point before breakup occurs it becomes unsafe to measure the ice thickness. You can get around this issue by using the Ashton model to estimate ice thickness (extrapolate from last measurements)
+There will be “scatter” in the relationship between discharge and ice thickness, it is not a perfect 1:1 relationship
+To make the bet, we are making a prediction (extrapolating). We need to predict discharge and thickness, both of which are heavily dependent on weather, which is very difficult to predict accurately, especially when we need to look several weeks in advance! This makes the ice classic a very challenging (but interesting) modelling problem.
+% solution_end
 
+
+**3.3 (Optional but recommended) Outline your own conceptual model based on what you have learned in the notebook. Explain your choices.**
+
+% solution_start
+This one is up to you :)
+% solution_end
 
 
 *Copyright 2025 MUDE, TU Delft. This work is licensed under CC BY 4.0 License.*
