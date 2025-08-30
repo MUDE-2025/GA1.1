@@ -29,7 +29,7 @@ Global climate models are mostly phenomenological, based on atmospheric physics 
 
 - Ice melting is generally treated as a static, time-invariant process.
 
-![triangle1](images/triangle1.png)
+![triangle1](https://files.mude.citg.tudelft.nl/triangle1.png)
 
 #### Model 2
 Solar heat can be modeled deterministically using mechanistic equations, accounting for daily and seasonal cycles. While complex, a stochastic model could simplify this variability.
@@ -38,7 +38,7 @@ Snow and ice cover can be estimated from historical data using stochastic or reg
 
 River discharge is well-documented and could support more complex, non-linear, and even dynamic models. While ice melting can often be simplified as static (assuming stable temperature), discharge is better modeled dynamically due to rapid changes caused by rain or melting events.
 
-![triangle2](images/triangle2.png)
+![triangle2](https://files.mude.citg.tudelft.nl/triangle2.png)
 
 #### Model 3
 Discharge and temperature will likely come from data and could be modeled stochastically using probability distributions.
@@ -47,14 +47,14 @@ The model for ice melting in the river could be mechanistic (involving ice mass,
 
 The rope tension and catenary shape should be modeled mechanistically, and are clearly non-linear. This is likely a static problem, since the load builds slowly as ice melts. However, if there's a sudden surge in river flow or ice breakage, it might become a dynamic impulse load.
 
-![triangle3](images/triangle3.png)
+![triangle3](https://files.mude.citg.tudelft.nl/triangle3.png)
 
 #### Model 4
 See the solution for Model 3. In this case, a deliberate decision was made to abandon complex mechanistic and phenomenological models for ice deformation. Instead, the model focuses on estimating the probability of reasonable outcomes.
 
 According to the accuracy-complexity-cost triangle, this approach sacrifices some accuracy, but significantly reduces complexity and improves affordability.
 
-![triangle4](images/triangle4.png)
+![triangle4](https://files.mude.citg.tudelft.nl/triangle4.png)
 
 
 % solution_end
