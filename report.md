@@ -1,10 +1,4 @@
-# Ice Ice Baby: Group Assignment 1.1
-
-*[CEGM1000 MUDE](http://mude.citg.tudelft.nl/)*
-
-*Written by: Jialei Ding, based on work by Robert Lanzafame*
-
-*Due: Friday, 5th September, 2025. This assignment does not need to be turned in*
+# Report
 
 ## Part 1
 
@@ -15,11 +9,6 @@ The question below refers to the 4 examples in Part 1 of the notebook.
 **1.1 Classify the models in the examples using the categories in the textbook. Please provide an explanation of your choice.**
 
 **1.2 Place each model on the tradeoff triangle (shown below) and provide an explanation of your choice.**
-
-**1.3 What simplifications are assumed in each of the models?**
-
-**1.4 How do the different types of uncertainty appear in these models?**
-
 
 ![triangle](images/triangle.jpg)
 
@@ -66,7 +55,7 @@ According to the accuracy-complexity-cost triangle, this approach sacrifices som
 
 % solution_end
 
-**1.5 Which model of the examples do you think would be the most useful for winning the Ice Classic? Provide an explanation of your choice.**
+**1.3 Which model of the examples do you think would be the most useful for winning the Ice Classic? Provide an explanation of your choice.**
 
 % solution_start
 
@@ -81,20 +70,21 @@ The answer is often subjective and depends on your assumptions and perspective.
 
 Before answering these questions, please work through Part 2 of the notebook.
 
-**2.1 Provide a description of the resulting models for model 1 and model 2. What do you observe?**
+**2.1 Provide a description of the resulting models for model 1 and model 2. What do you observe?e? Are they accurate?**
 
 % solution_start
 `<solution>`
 % solution_end
 
-**2.2 Which model, if any, do you think is better according to the Goodness of Fit metrics? Why?**
-
+**2.2 Which model, if any, do you think is better according to Goodness of Fit metrics? Why?**
 
 ## Part 3
 
-Before answering these questions, read through Part 3 of the notebook.
+**3.1 Have a look at the given examples and papers in part 3. What assumption and simplifications do you make? What do you think the tradeoffs are?**
 
-**3.1 (Optional but recommended) Based on these models and the data you have available, make a prediction for the ice breakup for next year!**
+**3.2 How do the different types of uncertainty appear in these models?**
+
+**3.3 (Optional but recommended) Based on these models and the data you have available, make a prediction for the ice breakup for next year!**
 
 % solution_start
 There is a huge variety of answers, so only a brief outline will be illustrated here.
@@ -107,11 +97,11 @@ To make the bet, we are making a prediction (extrapolating). We need to predict 
 % solution_end
 
 
-**3.2 (Optional but recommended) Outline your own conceptual model based on what you have learned in the notebook. Explain your choices.**
+**3.3 (Optional but recommended) Outline your own conceptual model based on what you have learned in the notebook. Explain your choices.**
 
 % solution_start
 This one is up to you :)
 % solution_end
 
 
-*Copyright 2025 MUDE, TU Delft. This work is licensed under CC BY 4.0 License.*
+> Jialei Ding and Robert Lanzafame, Delft University of Technology. CC BY 4.0, more info [on the Credits page of Workbook](https://mude.citg.tudelft.nl/workbook-2025/credits.html).
