@@ -10,6 +10,10 @@ The question below refers to the 4 examples in Part 1 of the notebook.
 
 **1.2 Place each model on the tradeoff triangle (shown below) and provide an explanation of your choice.**
 
+**1.3 What simplifications are made in the models?**
+
+**1.4 What types of uncertainty are the models affected by?**
+
 ![triangle](images/triangle.jpg)
 
 % solution_start
