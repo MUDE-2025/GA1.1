@@ -17,7 +17,6 @@ The question below refers to the 4 examples in Part 1 of the notebook.
 **1.4 What types of uncertainty are the models affected by?**
 
 % solution_start
-
 The following solutions are for questions 1.1, 1.2, 1.3 and 1.4, per model:
 
 All models are subject to all the types of uncertainty that we have defined in the book.
@@ -84,7 +83,6 @@ Some simplifications:
 - Rope tension linked deterministically to velocity, not considering unexpected load paths.
 
 ![triangle4](https://files.mude.citg.tudelft.nl/triangle4.png)
-
 % solution_end
 
 ## Part 2
@@ -94,50 +92,38 @@ Before answering these questions, please work through Part 2 of the notebook.
 **2.1 For model 1, what does the coefficient of determination $R^2$ tell you?. What can you conclude from this?**
 
 % solution_start 
-
 Coefficient of determination $R^2$ measures the percentage of the variance in our observations explained by the model. Thus, the higher, the better. As we can see, the value of $R^2$ is quite low. Only ≈15% of the variance is explained by the model, which is very low. Therefore, the linear model is not able to explain the scatter in our observations. 
-
 % solution_end
 
 **2.2 For model 1, describe the resulting two plots. What can you conclude from this?**
 
 % solution_start 
-
 In the first plot, we observe that the observations have a high scatter around the fitted line. In the second plot, we compare the observations with the predictions of the model. The perfect fit would correspond to the 45-degrees line in black. Thus, the model has a poor performance. 
-
 % solution_end
 
 **2.3 For model 1, what can you conclude from looking at the error bars? Would you have confidence in this model?**
 
 % solution_start 
-
 If you consider that you need to place a bet with not only the day but also the hour and minute at which the ice would break, the model is not accurate enough. You can see that the confidence interval spans almost 20 days! 
-
 % solution_end
 
 **2.4 For model 2, please describe the resulting two plots. What can you conclude from this? Looking at the error bars, would you have confidence in this model?**
 
 % solution_start 
-
 For model 2, we see very similar things to model 1. Firstly, there is a high degree of scatter around the fitted line. When comparing the observations with the predictions of the model there is still no discernible fit around the 45-degree line. Again, the error bars show an interval of about 20 days, nowhere precise enough to place a confident bet. 
-
 % solution_end
 
 **2.5 Which model, if any, do you think is better according to Goodness of Fit metrics? Why?**
 
 % solution_start
-
 Neither! They are both bad. 
-
 % solution_end
-
 
 ## Part 3
 
 **3.1 (Optional but recommended) Based on these models and the data you have available, make a prediction for the ice breakup for next year!**
 
 % solution_start
-
 Most groups recognized the importance of discharge and ice thickness and found really interesting ways to connect observable variables to these, which are at the core of the prediction model. Some were more complex than others, and ranged in scale from global to regional, but all incorporated interesting aspects of hydrology, climate, weather, etc. (solar radiation, for example, was a nice one, as it has complex relationship with snow/ice melting, both on the river and upstream in the watershed).
 Ideally one would “observe” the discharge and ice thickness at breakup to identify a critical threshold of discharge that may cause the ice to break, given the current ice thickness. This is a great idea; however, it is much more difficult to do in practice.
 
@@ -145,17 +131,12 @@ We note that:
 - It is impossible to measure ice thickness during breakup. Also, at some point before breakup occurs it becomes unsafe to measure the ice thickness. You can get around this issue by using the Ashton model to estimate ice thickness (extrapolate from last measurements).
 - There will be “scatter” in the relationship between discharge and ice thickness, it is not a perfect 1:1 relationship.
 - To make the bet, we are making a prediction (extrapolating). We need to predict discharge and thickness, both of which are heavily dependent on weather, which is very difficult to predict accurately, especially when we need to look several weeks in advance! This makes the ice classic a very challenging (but interesting) modelling problem.
-
 % solution_end
-
 
 **3.2 (Optional but recommended) Outline your own conceptual model based on what you have learned in the notebook. Explain your choices.**
 
 % solution_start
-
 This one is up to you :)
-
 % solution_end
-
 
 > Jialei Ding and Robert Lanzafame, Delft University of Technology. CC BY 4.0, more info [on the Credits page of Workbook](https://mude.citg.tudelft.nl/workbook-2025/credits.html).
