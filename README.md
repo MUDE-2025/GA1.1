@@ -2,7 +2,7 @@
 
 *Due: Friday 5th September, 2025. This assignment does not need to be turned in*
 
-You can access this assignment on https://mude.citg.tudelft.nl/workbook-2025/assignments/GA1.1/README.html. Pages can be downloaded as `.md` and `.ipynb` files to your computer.
+You can preview this assignment on https://mude.citg.tudelft.nl/workbook-2025/assignments/GA1.1/README.html. After the deadline, this link will include solutions. The preview of the assignment version is shared here: https://mude.citg.tudelft.nl/workbook-2025/no_solutions/assignments/GA1.1/README.html. Pages can be downloaded as `.md` and `.ipynb` files to your computer.
 
 This assignment is split into three main parts, all presented in the [model comparison notebook](./analysis.ipynb) :
 
