@@ -20,7 +20,7 @@ The question below refers to the 4 examples in Part 1 of the notebook.
 The following solutions are for questions 1.1, 1.2, 1.3 and 1.4, per model:
 
 All models are subject to all the types of uncertainty that we have defined in the book.
-As we are modelling a natural process they are all highly susceptible to randomness (Epistemic). Aleatoric uncertainty comes in as we are only able to capture so much of the natural system. We often have to make simplifications of the natural world, so the knowledge of the system is limited. Lastly, all the data gathered will be subject to some kind of error, be it human error or instrument error. 
+As we are modelling a natural process they are all highly susceptible to randomness (Aleatoric). Epistemic uncertainty comes in as we are only able to capture so much of the natural system. We often have to make simplifications of the natural world, so the knowledge of the system is limited. Lastly, all the data gathered will be subject to some kind of error, be it human error or instrument error. 
 
 **Model 1**
 
