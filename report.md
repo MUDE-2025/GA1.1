@@ -10,7 +10,7 @@ The question below refers to the 4 examples in Part 1 of the notebook.
 
 **1.2 Place each model on the tradeoff triangle (shown below) and provide an explanation of your choice.**
 
-![triangle](https://files.mude.citg.tudelft.nl/triangle.jpg)
+![triangle](https://github.com/TUDelft-MUDE/source-files/raw/main/file/triangle.jpg)
 
 **1.3 What simplifications are made in the models?**
 
@@ -37,7 +37,7 @@ Some simplifications:
 - Simplifies precipitation and discharge processes to outputs of energy balance.
 - Treats ice melt as a direct consequence of heat/precipitation.
 
-![triangle1](https://files.mude.citg.tudelft.nl/triangle1.png)
+![triangle1](https://github.com/TUDelft-MUDE/source-files/raw/main/file/triangle1.png)
 
 **Model 2**
 
@@ -53,7 +53,7 @@ Some simplifications:
 - Considers only heat balance, neglecting other feedbacks (wind, vegetation, permafrost).
 - River temperature and discharge are simplified to direct outcomes of snowmelt + rainfall.
 
-![triangle2](https://files.mude.citg.tudelft.nl/triangle2.png)
+![triangle2](https://github.com/TUDelft-MUDE/source-files/raw/main/file/triangle2.png)
 
 **Model 3**
 
@@ -69,7 +69,7 @@ Some simplifications:
 - Assumes river discharge and temperature alone determine ice melt.
 - Ice deformation simplified to deterministic link between melt and mechanical response.- 
 
-![triangle3](https://files.mude.citg.tudelft.nl/triangle3.png)
+![triangle3](https://github.com/TUDelft-MUDE/source-files/raw/main/file/triangle3.png)
 
 **Model 4**
 
@@ -82,7 +82,7 @@ Some simplifications:
 - Ice modeled as uniform continuum, so it ignores sudden break-up dynamics, irregular block movement, or jamming.
 - Rope tension linked deterministically to velocity, not considering unexpected load paths.
 
-![triangle4](https://files.mude.citg.tudelft.nl/triangle4.png)
+![triangle4](https://github.com/TUDelft-MUDE/source-files/raw/main/file/triangle4.png)
 % solution_end
 
 ## Part 2
